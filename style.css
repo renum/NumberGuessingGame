@@ -1,0 +1,50 @@
+body{
+  
+    background: black;
+}
+
+
+.main-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  
+}
+
+button{
+  background-color: purple;
+  border: 4px solid;
+  color: white;
+  border-radius: 0.2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 5px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+input{
+  border: 4px solid;
+  border-color: black;
+  border-radius: 0.2rem;
+  font-size: 1.5rem;
+  padding: 5px;
+}
+
+.message{
+  
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.replay{
+  
+  padding:5px;
+}
+
+
+
+
+
